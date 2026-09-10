@@ -75,6 +75,20 @@ export const siteConfig: SiteConfig = {
   primaryCtaLabel: "Start with What Is Crimson Moon",
   primaryCtaHref: "/intro/what-is-crimson-moon",
 
+  ads: {
+    sidebar: `<script async="async" data-cfasync="false" src="https://pl31264263.profitableratecpmnetwork.com/d95f639e0523c472dcd3d65b37ca535a/invoke.js"></script>
+<div id="container-d95f639e0523c472dcd3d65b37ca535a"></div>`,
+    footerBanner: `<script>
+  atOptions = {
+    'key' : 'd6c99557f0b8c0ceecf07155967298db',
+    'format' : 'iframe',
+    'height' : 90,
+    'width' : 728,
+    'params' : {}
+  };
+</script>
+<script src="https://www.highrevenueformat.com/d6c99557f0b8c0ceecf07155967298db/invoke.js"></script>`,
+  },
   platformUrl: "https://store.steampowered.com/app/4317690/Crimson_Moon/",
   discordUrl: "https://discord.gg/playcrimsonmoon",
   youtubeChannelUrl: "https://www.youtube.com/@ProbablyMonsters",
@@ -175,8 +189,8 @@ export const siteConfig: SiteConfig = {
   },
 
   ads: {
-    sidebar: "",
-    footerBanner: "",
+    sidebar: `<script async="async" data-cfasync="false" src="https://pl31036462.profitableratecpmnetwork.com/451eb73e616cf113813a1a0246327f1c/invoke.js"></script> <div id="container-451eb73e616cf113813a1a0246327f1c"></div>`,
+    footerBanner: `<script> atOptions = { 'key' : '0956a07eeaa1b83c5493388661a88e44', 'format' : 'iframe', 'height' : 90, 'width' : 728, 'params' : {} }; </script> <script src="https://www.highrevenueformat.com/0956a07eeaa1b83c5493388661a88e44/invoke.js"></script>`,
   },
 
   faq: [
