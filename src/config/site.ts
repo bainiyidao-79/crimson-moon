@@ -188,10 +188,6 @@ export const siteConfig: SiteConfig = {
     buttonHref: "https://store.steampowered.com/app/4317690/Crimson_Moon/",
   },
 
-  ads: {
-    sidebar: `<script async="async" data-cfasync="false" src="https://pl31036462.profitableratecpmnetwork.com/451eb73e616cf113813a1a0246327f1c/invoke.js"></script> <div id="container-451eb73e616cf113813a1a0246327f1c"></div>`,
-    footerBanner: `<script> atOptions = { 'key' : '0956a07eeaa1b83c5493388661a88e44', 'format' : 'iframe', 'height' : 90, 'width' : 728, 'params' : {} }; </script> <script src="https://www.highrevenueformat.com/0956a07eeaa1b83c5493388661a88e44/invoke.js"></script>`,
-  },
 
   faq: [
     {
